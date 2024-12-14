@@ -1,0 +1,3 @@
+../ExtMemUseInit/ExtMemUseInit.c:9:6:ExternalMemmoryRun	2
+../ExtMemUseInit/ExtMemUseInit.c:28:6:ExternalMemoryCopyDataSection	2
+../ExtMemUseInit/ExtMemUseInit.c:40:6:ExternalMemorySetZeorsInBSSSection	2

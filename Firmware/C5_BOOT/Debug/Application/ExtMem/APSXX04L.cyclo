@@ -1,0 +1,9 @@
+../Application/ExtMem/APSXX04L.c:11:16:APSXX04L_WriteCmdS	2
+../Application/ExtMem/APSXX04L.c:29:16:APSXX04L_WriteCmdQ	2
+../Application/ExtMem/APSXX04L.c:47:16:APSXX04L_ReadDataRegS	3
+../Application/ExtMem/APSXX04L.c:83:16:APSXX04L_ReadDataRegQ	3
+../Application/ExtMem/APSXX04L.c:119:9:APSXX04L_EnterMemoryMappedMode	4
+../Application/ExtMem/APSXX04L.c:178:16:APSXX04L_HighClcConfig	3
+../Application/ExtMem/APSXX04L.c:211:9:APSXX04L_Write	3
+../Application/ExtMem/APSXX04L.c:248:9:APSXX04L_Read	3
+../Application/ExtMem/APSXX04L.c:285:9:APSXX04L_Init	4

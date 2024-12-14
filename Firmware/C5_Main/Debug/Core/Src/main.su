@@ -1,0 +1,9 @@
+../Core/Src/main.c:69:5:main	8	static
+../Core/Src/main.c:119:6:SystemClock_Config	120	static
+../Core/Src/main.c:175:6:ISM_Write	16	static
+../Core/Src/main.c:179:6:ISM_Receive	16	static
+../Core/Src/main.c:183:6:ISM_TransmitReceive	32	static
+../Core/Src/main.c:187:6:ISM_CS_High	8	static
+../Core/Src/main.c:191:6:ISM_CS_Low	8	static
+../Core/Src/main.c:199:6:MPU_Config	24	static
+../Core/Src/main.c:241:6:Error_Handler	4	static,ignoring_inline_asm

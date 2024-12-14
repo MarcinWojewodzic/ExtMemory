@@ -1,0 +1,3 @@
+../ExtMemUseInit/ExtMemUseInit.c:9:6:ExternalMemmoryRun	16	static,ignoring_inline_asm
+../ExtMemUseInit/ExtMemUseInit.c:28:6:ExternalMemoryCopyDataSection	16	static
+../ExtMemUseInit/ExtMemUseInit.c:40:6:ExternalMemorySetZeorsInBSSSection	16	static

@@ -1,0 +1,6 @@
+../Application/Bootloader/Bootloader.c:23:6:BL_Handle	8	static
+../Application/Bootloader/Bootloader.c:34:25:BL_InitFunction	16	static
+../Application/Bootloader/Bootloader.c:44:25:BL_TestMemoryFuction	536	static
+../Application/Bootloader/Bootloader.c:74:25:BL_EndFunction	24	static,ignoring_inline_asm
+../Application/Bootloader/Bootloader.c:87:25:BL_ErrorFunction	16	static
+../Application/Bootloader/Bootloader.c:94:13:BL_ChangeState	16	static

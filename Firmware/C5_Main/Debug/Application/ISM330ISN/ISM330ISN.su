@@ -1,0 +1,7 @@
+../Application/ISM330ISN/ISM330ISN.c:13:14:ISM330_Map	32	static
+../Application/ISM330ISN/ISM330ISN.c:18:13:ISM_WriteDataToRegister	16	static
+../Application/ISM330ISN/ISM330ISN.c:25:13:ISM_ReadDataFromRegister	24	static
+../Application/ISM330ISN/ISM330ISN.c:32:13:ISM330_CalculateAcc	24	static
+../Application/ISM330ISN/ISM330ISN.c:41:13:ISM330_CalculateGyro	16	static
+../Application/ISM330ISN/ISM330ISN.c:47:6:ISM330ISN_Init	24	static
+../Application/ISM330ISN/ISM330ISN.c:58:6:ISM330ISN_Hanler	56	static
